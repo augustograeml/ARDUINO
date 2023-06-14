@@ -1,3 +1,6 @@
+/*----------------------------------------
+MUDA COR RGB DE ACORDO COM O POTENCIOMETRO
+----------------------------------------*/
 int verde = 11, azul = 12, vermelho = 13;
 
 void setup() {
